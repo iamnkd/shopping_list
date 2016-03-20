@@ -1,2 +1,2 @@
-# shopping_list
-Simple app using Python
+# Shopping List
+A simple app using Python.
